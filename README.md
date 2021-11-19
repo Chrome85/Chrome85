@@ -1,7 +1,6 @@
-  # Merhaba! Ben [Ahmet](https://discord.com/invite/SANuqz8vNq) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
-<p align="center">
+  # Merhaba! Ben [Ahmet](https://discord.com/invite/SANuqz8vNq) 
   <a href="https://www.youtube.com/c/Chrome85?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="hhttps://img.shields.io/youtube/channel/subscribers/UCVZnzpfbI_G4iaDVuezHIVQ?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="https://img.shields.io/youtube/channel/subscribers/UCVZnzpfbI_G4iaDVuezHIVQ?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
     <a href="https://www.youtube.com/c/Chrome85">
    <img alt="youtube views" title="YouTube İzlenme Sayım" src="https://img.shields.io/youtube/channel/views/UCVZnzpfbI_G4iaDVuezHIVQ?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/Chrome85">
