@@ -1,4 +1,4 @@
-  # Merhaba! Ben [Emirhan](https://github.com/EmirhanSarac) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
+  # Merhaba! Ben [Ahmet](https://discord.com/invite/SANuqz8vNq) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
 <p align="center">
   <a href="https://www.youtube.com/c/Chrome85?sub_confirmation=1">
     <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="hhttps://img.shields.io/youtube/channel/subscribers/UCVZnzpfbI_G4iaDVuezHIVQ?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
